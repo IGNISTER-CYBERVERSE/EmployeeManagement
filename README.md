@@ -39,7 +39,7 @@ A Windows Forms application built with C# .NET and SQLite for managing employee 
 
 ### Main Window
 
-![Main Window](screenshots/mainwindow.png)
+![Main Window](Screenshots/mainwindow.png)
 _Employee Management System main interface_
 
 ## Development
