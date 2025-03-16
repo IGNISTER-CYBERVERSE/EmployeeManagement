@@ -37,12 +37,20 @@ A Windows Forms application built with C# .NET and SQLite for managing employee 
 
 ## Screenshots
 
-[You can add screenshots of your application here]
+### Main Window
+
+![Main Window](screenshots/mainwindow.png)
+_Employee Management System main interface_
 
 ## Development
 
 This project was created as a learning exercise to demonstrate:
+
 - CRUD operations with Entity Framework Core
 - Windows Forms UI development
 - Data validation and error handling
 - SQLite database integration
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
